@@ -1,2 +1,3 @@
 # JUnitTraining
-The code for JUnit training goes here
+The code for JUnit training goes here.
+
